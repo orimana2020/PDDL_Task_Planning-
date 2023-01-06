@@ -10,3 +10,7 @@ when agent reach a goal, it should take picure of it, raise antenna and transmit
 
 problem example of 3 drones:
 ![Screenshot1](snapshots/1.png)
+
+
+example of pddl sover for optimal task order:
+![Screenshot1](snapshots/2.png)
