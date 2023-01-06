@@ -13,4 +13,6 @@ problem example of 3 drones:
 
 
 example of pddl sover for optimal task order:
-![Screenshot1](snapshots/2.png)
+
+
+![Screenshot2](snapshots/2.png)
